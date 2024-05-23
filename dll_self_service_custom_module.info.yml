@@ -1,0 +1,7 @@
+name: 'DLL Self-Service Custom Module'
+type: module
+description: 'A module to handle file uploads and process them.'
+core_version_requirement: ^9 || ^10
+package: Custom
+dependencies:
+  - file
